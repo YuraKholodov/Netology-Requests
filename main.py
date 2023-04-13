@@ -35,7 +35,7 @@ print()
 """Второе задание"""
 
 
-TOKEN = "y0_AgAAAABZsbK1AADLWwAAAADgniB5WC3hGz18Q6qdhgWfEkPkqkqyjBY"
+TOKEN = ""
 
 my_disk = Yandex_Disk(TOKEN)
 file = 'test_file.txt'
